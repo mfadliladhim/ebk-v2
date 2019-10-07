@@ -1,0 +1,12 @@
+.form-control:disabled, .form-control[readonly] {
+    background-color: #ffffff;
+    /* opacity: 1; */
+}
+.col-form-label {
+  font-weight: bold;
+  padding-top: 0;
+}
+.ibu .col-form-label {
+  font-weight: bold;
+  padding-top: calc(.375rem + 1px);
+}
